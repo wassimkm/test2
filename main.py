@@ -1,3 +1,4 @@
+#project
 tasks = [
     {'name' : 'Write email to Jan', 'completed' : True},
     {'name' : 'Sweep front porch', 'completed' : True},
